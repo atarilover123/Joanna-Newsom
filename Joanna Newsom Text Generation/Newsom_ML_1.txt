@@ -1,0 +1,165 @@
+Training new model w/ 3-layer, 128-cell LSTMs
+Training on 84,868 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Epoch 1/20
+82/82 [==============================] - 14s 167ms/step - loss: 3.2739
+Epoch 2/20
+82/82 [==============================] - 7s 88ms/step - loss: 3.1297
+Epoch 3/20
+82/82 [==============================] - 8s 92ms/step - loss: 3.1253
+Epoch 4/20
+82/82 [==============================] - 7s 90ms/step - loss: 3.1196
+Epoch 5/20
+82/82 [==============================] - 8s 96ms/step - loss: 3.1132
+####################
+Temperature: 0.2
+####################
+ o     e e o ett     e         a    eeo   e     e     eeo     r      e       e a e  r  r        e  a   oe   a       n ao     y t            e   e      n    t    eet     e   a      e  ye         alns  r    e            a    a e  in   e   r   e   eo  ne ae  e              e e  t         e ee n  t     
+
+      e e  teet     ean   a   e  e ee  e     e  e     re   n e  a   at  t   ee    e        e   aeio         r    ee   t e        ee  oeo   e e  e     e e   e r           a l      a     o   o  n  t a o      e   eee r         e       e aee   o    nei  oe   e o   e   a n    eeegen              a   e r 
+
+      h e   ea                  e n n           nee    e  ee    e e n e      e      e    i  ae    ee        o l    y e  e             ea a e    us   a       n t   e    en e  e      t e  e  e e    ae    e           a eot         r     e  a    ee        eoeon  eei  aaa   ee     ai t     o  e a     n  
+
+####################
+Temperature: 0.5
+####################
+en y  d l  e ,ld n eiyei hsnh  h  tt   a ,  eaa  t   d  h    , h hee e   etd saeel lo od o yeeuie si o i   ale     yoneca lgo  ldl    nr   a lnaaet rue e lthle yo ya   adllr  e we esrto eei    en e y  asa sw i oll  ao ern  eee  e v  eusn eo n a s lna  g usarie t t a t  to ni  omsh tee sl ne l a  sdc
+
+ malisea etntnr dnhte d  h    rt  liliee o i eeee r  r tl i    e e il  eo     i   st eoieor  . e  ds  teu te mn heo l   tn  lue  ee oi,o o  htt o,ne t t   ur e   ar   aeei net,in  i  art e  ee   et   gsi   n os .,yeIod    r d e ae   e y te ,m o sent  aeaee etyninonia  e   e.ta  rr   a nt u t sibe eo
+
+u a eneegnnh ao eeee u kr  ici  o  lhr rtp yi o ibi        nee eo  of lsadeeee  enrgfat   sr   met  rtI n  a    u   tn e sawbda h c t   hhren eey ,t  rr  t   e   rhs u esnnsi      te   eeee i o  naed  ohdme ee de     y   eusohie  e goai ea   sn   eoef   ea l gev enhl  i ut dn ti hi dlt    te   eetr 
+
+####################
+Temperature: 1.0
+####################
+I ndpy  abo     oteiee rsyhdd, g v)en  ryarylre leyelaab,lnf;d,ed ,cu?ngsfm,s thisi roilen ntmw u;Ei ro,gi ,  uatdded h  i naewiysf ps,dme   gaorthtuei yshpa r doe vsr!o  hn kr   g,e,r nnorcoehwh    ; g p tegn  sbsrdose  hrI-  oy lyahcldne o o  crleebs.fe erheoaneThurhg iel minhepwstrs teoIsldnlayyd
+
+l gese,n  gyiw,yk  tWbsaoteb.rpfeflc   sihnyycIeurwImmstaa   ,v  aeec—ad iretHetnsehmfohpnt w Ty orhm epedee eo T weke  nw oirente lmgnnpsnhrnhew w  sp-cYaryl eitupkvataoat m Ioy   dh uhto luhge rnhem  eo nlosdro  g  h easozernnsdypt hvay ni,lydoriitrfeg wzs  ibir l Hp  iy mh nussw  a ec rs ma  n?es
+
+aim en nguh nhBsdloe tehum cnp vog iIto w bewh seg ncy  .udnhopnotr   h ra ig- horeinnt nri;gh otn elhaoai illanhd r lIneegrwfdlztsrdnte e H dn wobioi su s nm wgn eeiarhsvhw, d t!ehhfhi rnnrr  raI’u eo vdcueen edeu wtu ,esthinf,   eased yniarobrau  Ou fgtrto nsomurn nmieetmShrleohal v;ltut, emuuapn 
+
+Epoch 6/20
+82/82 [==============================] - 7s 84ms/step - loss: 3.1057
+Epoch 7/20
+82/82 [==============================] - 8s 95ms/step - loss: 2.9845
+Epoch 8/20
+82/82 [==============================] - 8s 94ms/step - loss: 2.3841
+Epoch 9/20
+82/82 [==============================] - 8s 94ms/step - loss: 2.1351
+Epoch 10/20
+82/82 [==============================] - 8s 96ms/step - loss: 2.0139
+####################
+Temperature: 0.2
+####################
+taring of the stare.And the store a stane the sing a stare and the sting the stare to the tone the store the songed the sing of the stare of the stare a sonder the mear the stare of the sare of the wear the songed the sund the store the songed to the tone the store the stare of the store the stare t
+
+ sting a done the the the store the start of the staring of the sting the right of the stare of the roong and the start of the song a stare of the thet the stare the stare to the hare the stoon the sone the staring of the water the seart of the stare the stare to the store a hang to the stand the wi
+
+tare of the stare the store to the stare of the sting, and the stare of the stare the stare of the seather the stold the songed the sand the start of the stare the stare the sing of the stay, and the sting on the stare of the stare a store the store to the meath the seath the stare the stare the sta
+
+####################
+Temperature: 0.5
+####################
+ the wide and the ploming to the never hear gone.You hing the lingther heart of the stare starn of the gone —long of the below and selling the bull sen the seath not beart and the sore hars of the saith the wand fard and the sithers seath of the sand the sheet the then the stattou the singtour mong 
+
+ongle a to the stere to the gonder, back bell the meet a king of the gone to the and the to the at tacker.And I call whith the got the lifter of the sound the starning,and the sow as to you cond fore:the sot steet on the bester to the sinter to to the ritht the torether the tare stain the here to th
+
+ore water torem.Ohe the dinter pring and to the prome of the mener to the ring, the seather the binghot row on the shat praached of bent.But I wa that the me of the staint that you mear the rood the stalls and thing, wite a knos to come the sinters to the have that a singer the hate me to the sate o
+
+####################
+Temperature: 1.0
+####################
+g!And on.I then suthing your coud stet thad gouned.Melie;ou medtellissMy tity uner cade.Wingering yome;come, litterlyfits the mive your filld celpand lirtre,lighhtollong what dive tow our that mast a bleethingSataiteen?Hongown the way my of the It and mebrifarding ourEmbyone and I blle;;and te tan s
+
+t! And I winlll same fourt frall of the higthten.And your thas un the ligth the paythee.I still is all not lowepan'ss, in the ewary night-ep opthere —wiey ot yon,wone sue.And to longred!It sat night tell fornun:the knoont.
+Hrilk ase that nitsto ras and then verpsald thy whey halkning this wo the pru
+
+ar-ou.
+
+23 
+
+Eyon the brcound buntow?Ohar astinegoutlve pookns, to nead heep tour our slus the sangnowe’s all my’f mims seteFits.And ip wile ore heeat,ay dave, that thinereladeadt sut like a to gton! and ryeds, lucked.Thren's mace asmendith tbestitge acouce what tack steet to rore to daby nateadts.N
+
+Epoch 11/20
+82/82 [==============================] - 7s 83ms/step - loss: 1.9273
+Epoch 12/20
+82/82 [==============================] - 8s 94ms/step - loss: 1.8936
+Epoch 13/20
+82/82 [==============================] - 8s 95ms/step - loss: 1.8060
+Epoch 14/20
+82/82 [==============================] - 8s 93ms/step - loss: 1.7611
+Epoch 15/20
+82/82 [==============================] - 7s 91ms/step - loss: 1.7192
+####################
+Temperature: 0.2
+####################
+ the see to the saw of the cound the star of the will bear of the sarn,and the sain a spring of the canter from the same of the done.And the bore to star a starly the see of the done of the say the light of the cound the see and stard of the dines of the stard of the sound the mone of the right of t
+
+f the done of the sand the light on the part of my life me and stary staring the say of the sain,and the same some of the sing, and the will bent to the sound the star of the store of the bundy songer of the could the seen the saw of the bound of the seath of the sound the sing of the seet of the sa
+
+ see and the song of the bore.And the mone of the bord of the way the star of the sarn.And the sone of the sing of the bores of the sate.When you can the same of the borning the seath of the sould of the stare of the barted and sall, and the sare of the barn.And I can the book of the sand of the lig
+
+####################
+Temperature: 0.5
+####################
+ of the ceat.And I was you amen the metter, in the boon.And I was bloke of the blue a river me bear to bear me to no on one.When you will not the wann, and the sound my hade.And I am same of the deet, for me.
+
+23 
+
+See you reder of sars.And the farling gor of me.The light on the may a little of the 
+
+ courd of the stary to the bark of the done.And the tore to the want, on your bear that bold of my litt my.And I have to be on fome.And I come bornow to finger my the moze of the spirt of the light and mine,and water shose of the done.We dorn't might on the burnn.(When the bant of my dand night the 
+
+of the way the moon of the cand to mead and light of the surns starling seet all the rest of my life.But I can time borning corns —Pour for the could under of the wannot some of the say,and I had no the whiles the light and the gone of the day of your pilling, and we are best the ristelly stard, and
+
+####################
+Temperature: 1.0
+####################
+ked take dornelt when I gride draver,and I loid wumk no you uway,in hid, darppanings with they istearich.Spent, and I reans of that men in the erent ferd with for howy.Weld,dow I hears on ever me?When I came that salleds Un &vering:at silling corce borte pruanding like who leorit of near.What you en
+
+ bull, you se cuife somping, I lolk.But of thyore know me —chollive.And tho was off my draze:So a lead?
+
+2 
+
+The bun buen durrowndrame me?Lored the mardles dark —whrow you lay you fund side my hour me pimery see.And I saw, “We pees shuet there.But I palt seething to how co caw of longea.And liscedly
+
+ery longs, in of my treasiteI'd gogn our hang.And modneos hen the rewcin that coles moven't cluet awredPligh, so me load I head those the nexend now at wy asted.)You wast so heading shoped in gark.)Loy water atridBul us endssilic a I procking out utor.And nonged and a bouthing.I knew we righ of the 
+
+Epoch 16/20
+82/82 [==============================] - 7s 80ms/step - loss: 1.6811
+Epoch 17/20
+82/82 [==============================] - 8s 93ms/step - loss: 1.6465
+Epoch 18/20
+82/82 [==============================] - 8s 93ms/step - loss: 1.6155
+Epoch 19/20
+82/82 [==============================] - 8s 99ms/step - loss: 1.5894
+Epoch 20/20
+82/82 [==============================] - 8s 97ms/step - loss: 1.5709
+####################
+Temperature: 0.2
+####################
+the star of the saw,and I saw the sater of the bound the same to the seet the see of the beath the seathowe was a to the see of the day the sound the seathing a shine a stard, it stand the sing of the light, and the talk of the say the stard, and the same that I can there is a brown the say the seat
+
+ the starry of the day,and I saw a stard, and I have got the start of the starry starry starry staring of the sain,and the say the starry the stard, and the see and the bores of the dorning songer for the see of the down, and I was a tall of the seath of the stard, and the day and the should of the 
+
+de of the staring and shine and shine a little bittle brown the see of the day and we stare, and I can down the way the star of the say the starry of the day and sheether the seased of the sain,and she look a say the stard, and the seathing a stire of the dind on the day and the see of the dider,whe
+
+####################
+Temperature: 0.5
+####################
+ut I wat you go know.Pout you to see a show the call of the sound to the start,and all the didter of the couldres and down of the say that we sains and saw a little all the bear of the light of the light by the sound the master of lifele,when you could we kith your pour that will I can know your arm
+
+he pars,and I have not no chear the night of the day,and I am pale.I water the sad a starbled and the rorn,and have bean to me.And you are that I was bent me, and the gording,and the wide boond it light.But don't late to see the lot them stars, and stard the bart,and water the gay and sholl of the b
+
+a hole,in the carn bear stretthat pallow as blothers of the say,and I am sown was beath the mone some me and starly that we am beft of your frace.And I mast the pars, word, where it wats a prow?But I do not know.I wat my hand the nights and me.And the light on with a hides.And I well the moneloke a 
+
+####################
+Temperature: 1.0
+####################
+g, where there! aftillev!(Sas, now, when I sair, it all jear, are storbly.And I livet is a was gorn-on:and sare night, and I bush minker the scrape,new all shepeater and we fully take a some thun offursacain,if you ay sumby log of the liest, sitifalona, it's the lime;mave now was she huiest sen the 
+
+hown I'll met time.Sow will I am sorgGaring't all frameles brace.And me werrow that was a suppit hoursefle miesI crun't love you tourte no down, to is I can there?Lovele stald, heart, malking;I lave is that wild knowh asone! The forenning againyout just of the darlow(We will net flaw,and I lit the s
+
+re I cill seceYars.In the mark water the fore,and the way fram,I throw knyown thoughtho the overny I right, arbs Maundosthe linoting bocries, around bemat herewith, it is beantol's heart bettat and gone Mome towno;What we gone to you spit of the falkerow)The taw rorks trang tushe?And you shostle pla
+
